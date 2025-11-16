@@ -1,2 +1,6 @@
-# Automatyzacja_generowania_danych_projekt_zaliczeniowy_UEKatowice
-Projekt zaliczeniowy na studia - Sztuczna Inteligencja w Analizie Danych - Uniwersytet Ekonomiczny w Katowicach.
+Projekt Automatyzacja generowania danych: 
+Symulator lotów dronów – generowanie syntetycznych danych użytkowników i misji
+
+Zaliczenie na studia - Sztuczna Inteligencja w Analizie Danych - Uniwersytet Ekonomiczny w Katowicach.
+
+Część danych pochodzi  z platformy Kaggle: https://www.kaggle.com/datasets/akshatsharma2/flipkart-e-commerce-drone-dataset
